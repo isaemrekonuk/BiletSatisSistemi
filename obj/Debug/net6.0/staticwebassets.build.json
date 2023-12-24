@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LP0Y5mClhRYHi/Xa3ntxvCzbnXc+ySgeOj0A+Fm194w=",
+  "Hash": "EXdonDtPy2Tu41rhu5eh5NebsaYvdSqiA6pokVqSIaI=",
   "Source": "EmreBilet",
   "BasePath": "_content/EmreBilet",
   "Mode": "Default",
@@ -2086,6 +2086,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\time-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\turkey.png",
+      "SourceId": "EmreBilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
+      "BasePath": "_content/EmreBilet",
+      "RelativePath": "img/turkey.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\turkey.png"
     },
     {
       "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\index.html",

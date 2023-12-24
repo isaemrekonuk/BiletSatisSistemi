@@ -28,3 +28,4 @@ C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet\obj\Debug\net6.0\refint\Emre
 C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet\obj\Debug\net6.0\EmreBilet.pdb
 C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet\obj\Debug\net6.0\EmreBilet.genruntimeconfig.cache
 C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet\obj\Debug\net6.0\ref\EmreBilet.dll
+C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet\obj\Debug\net6.0\EmreBilet.sourcelink.json

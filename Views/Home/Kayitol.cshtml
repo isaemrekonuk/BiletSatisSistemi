@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Kayitol";
 }
 
 <div class="breacrumb-section">
@@ -8,7 +8,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
                         <a href="/home"><i class="fa fa-home"></i> Ana Sayfa</a>
-                        <span>Giriş Yap</span>
+                        <span>Kayıt Ol</span>
                     </div>
                 </div>
             </div>
@@ -21,8 +21,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
-                    <div class="login-form">
-                        <h2>Giriş Yap</h2>
+                    <div class="register-form">
+                        <h2>Kayıt Ol</h2>
                         <form action="#">
                             <div class="group-input">
                                 <label for="username">Email Adresi *</label>
@@ -32,20 +32,14 @@
                                 <label for="pass">Şifre *</label>
                                 <input type="text" id="pass">
                             </div>
-                            <div class="group-input gi-check">
-                                <div class="gi-more">
-                                    <label for="save-pass">
-                                        Şifremi Kaydet
-                                        <input type="checkbox" id="save-pass">
-                                        <span class="checkmark"></span>
-                                    </label>
-                                    <a href="#" class="forget-pass">Şifremi Unuttum</a>
-                                </div>
+                            <div class="group-input">
+                                <label for="con-pass">Tekrar Şifre *</label>
+                                <input type="text" id="con-pass">
                             </div>
-                            <button type="submit" class="site-btn login-btn">Giriş Yap</button>
+                            <button type="submit" class="site-btn register-btn">Kayıt Ol</button>
                         </form>
                         <div class="switch-login">
-                            <a href="/kayitol" class="or-login">Veya Hesap Oluşturun</a>
+                            <a href="/login" class="or-login">Veya Giriş Yap</a>
                         </div>
                     </div>
                 </div>

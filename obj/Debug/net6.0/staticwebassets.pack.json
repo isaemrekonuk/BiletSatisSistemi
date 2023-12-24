@@ -433,6 +433,10 @@
       "PackagePath": "staticwebassets\\img\\time-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\turkey.png",
+      "PackagePath": "staticwebassets\\img\\turkey.png"
+    },
+    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

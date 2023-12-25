@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EXdonDtPy2Tu41rhu5eh5NebsaYvdSqiA6pokVqSIaI=",
+  "Hash": "N//hVoQTIHMl+Ud+ZTKB22Frz3c2cq+BWK5CG6GLUvE=",
   "Source": "EmreBilet",
   "BasePath": "_content/EmreBilet",
   "Mode": "Default",
@@ -1062,12 +1062,12 @@
       "OriginalItemSpec": "wwwroot\\img\\flag-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\footer-logo.png",
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly.jpg",
       "SourceId": "EmreBilet",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
       "BasePath": "_content/EmreBilet",
-      "RelativePath": "img/footer-logo.png",
+      "RelativePath": "img/fly.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1078,7 +1078,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\footer-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\fly.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly.png",
+      "SourceId": "EmreBilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
+      "BasePath": "_content/EmreBilet",
+      "RelativePath": "img/fly.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fly.png"
+    },
+    {
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly2.jpg",
+      "SourceId": "EmreBilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
+      "BasePath": "_content/EmreBilet",
+      "RelativePath": "img/fly2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fly2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly3.jpg",
+      "SourceId": "EmreBilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
+      "BasePath": "_content/EmreBilet",
+      "RelativePath": "img/fly3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fly3.jpg"
     },
     {
       "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\hero-1.jpg",
@@ -1461,12 +1518,12 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-carousel\\logo-5.png"
     },
     {
-      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\logo.jpg",
       "SourceId": "EmreBilet",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\",
       "BasePath": "_content/EmreBilet",
-      "RelativePath": "img/logo.png",
+      "RelativePath": "img/logo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1477,7 +1534,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
     },
     {
       "Identity": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\payment-method.png",

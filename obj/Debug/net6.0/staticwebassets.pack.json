@@ -217,8 +217,20 @@
       "PackagePath": "staticwebassets\\img\\flag-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\footer-logo.png",
-      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly.jpg",
+      "PackagePath": "staticwebassets\\img\\fly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly.png",
+      "PackagePath": "staticwebassets\\img\\fly.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly2.jpg",
+      "PackagePath": "staticwebassets\\img\\fly2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\fly3.jpg",
+      "PackagePath": "staticwebassets\\img\\fly3.jpg"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\hero-1.jpg",
@@ -301,8 +313,8 @@
       "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-5.png"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\payment-method.png",

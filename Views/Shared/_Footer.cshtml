@@ -4,7 +4,7 @@
                 <div class="col-lg-3">
                     <div class="footer-left">
                         <div class="footer-logo">
-                            <a href="#"><img src="/img/logo.jpg" width="50" height="50" alt=""></a>
+                            <a asp-controller="Home" asp-action="Index"><img src="/img/logo.jpg" width="50" height="50" alt=""></a>
                         </div>
                         <ul>
                             <li>Adres: Sakarya Üniversitesi</li>
@@ -23,9 +23,9 @@
                     <div class="footer-widget">
                         <h5>Bilgi</h5>
                         <ul>
-                            <li><a href="/hakkimizda">Hakkımızda</a></li>
-                            <li><a href="/ucuslar">Ucuslar</a></li>
-                            <li><a href="/iletisim">İletişim</a></li>
+                            <li><a asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a></li>
+                            <li><a asp-controller="Home" asp-action="Ucuslar">Ucuslar</a></li>
+                            <li><a asp-controller="Home" asp-action="Iletisim">İletişim</a></li>
                            
                         </ul>
                     </div>

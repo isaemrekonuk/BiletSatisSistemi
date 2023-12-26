@@ -12,8 +12,8 @@
                     </div>
                 </div>
                 <div class="ht-right">
-                    <a href="/login" class="login-panel"><i class="fa fa-user"></i> Giriş Yap </a>
-                    <a href="/kayitol" class="login-panel" style="margin-right: 15px"><i class="fa fa-user-plus"></i> Kayıt Ol </a>
+                    <a asp-controller="Home" asp-action="Login" class="login-panel"><i class="fa fa-user"></i> Giriş Yap </a>
+                    <a asp-controller="Home" asp-action="Kayitol" class="login-panel" style="margin-right: 15px"><i class="fa fa-user-plus"></i> Kayıt Ol </a>
                     <div class="lan-selector">
                         <select class="language_drop" name="countries" id="countries" style="width:300px;">
                             <option value='tr' data-image="/img/turkey.png" data-imagecss="flag yt"
@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-2">
                         <div class="logo">
-                            <a href="/home">
+                            <a asp-controller="Home" asp-action="Index">
                                 <img src="/img/logo.jpg" width="50" height="50" alt="">
                             </a>
                         </div>
@@ -111,10 +111,10 @@
                 
                 <nav class="nav-menu mobile-menu">
                     <ul>
-                        <li class="active"><a href="/home"> Ana Sayfa </a></li>
-                        <li><a href="/hakkimizda"> Hakkımızda </a></li>
-                        <li><a href="/ucuslar"> Uçuşlar </a></li>
-                        <li><a href="/iletisim"> İletisim </a></li>
+                        <li class="active"><a asp-controller="Home" asp-action="Index"> Ana Sayfa </a></li>
+                        <li><a asp-controller="Home" asp-action="Hakkimizda"> Hakkımızda </a></li>
+                        <li><a asp-controller="Home" asp-action="Ucuslar"> Uçuşlar </a></li>
+                        <li><a asp-controller="Home" asp-action="Iletisim"> İletisim </a></li>
                         
                     </ul>
                 </nav>

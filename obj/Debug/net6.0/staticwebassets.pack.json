@@ -5,22 +5,6 @@
       "PackagePath": "staticwebassets\\EmreBilet.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\blog-details.html",
-      "PackagePath": "staticwebassets\\blog-details.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\blog.html",
-      "PackagePath": "staticwebassets\\blog.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\check-out.html",
-      "PackagePath": "staticwebassets\\check-out.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\contact.html",
-      "PackagePath": "staticwebassets\\contact.html"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -55,10 +39,6 @@
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\faq.html",
-      "PackagePath": "staticwebassets\\faq.html"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\fonts\\ElegantIcons.eot",
@@ -449,10 +429,6 @@
       "PackagePath": "staticwebassets\\img\\turkey.png"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
@@ -723,30 +699,6 @@
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\login.html",
-      "PackagePath": "staticwebassets\\login.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\main.html",
-      "PackagePath": "staticwebassets\\main.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\product.html",
-      "PackagePath": "staticwebassets\\product.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\register.html",
-      "PackagePath": "staticwebassets\\register.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\shop.html",
-      "PackagePath": "staticwebassets\\shop.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\shopping-cart.html",
-      "PackagePath": "staticwebassets\\shopping-cart.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EmreBilet.Microsoft.AspNetCore.StaticWebAssets.props",

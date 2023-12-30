@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Emre\Desktop\Web Proje\EmreBilet\EmreBilet
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Home/Hakkimizda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWtraW1pemRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,20 +50,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVY3VzbGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_AdminLayout .cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9BZG1pbkxheW91dCAuY3NodG1s
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_ScriptsLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9TY3JpcHRzTG9naW4uY3NodG1s
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9TY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9TaWRlQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/admin/_TopBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluXF9Ub3BCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Emre/Desktop/Web Proje/EmreBilet/EmreBilet/Views/Shared/Error.cshtml]

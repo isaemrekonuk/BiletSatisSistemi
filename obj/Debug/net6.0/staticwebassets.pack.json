@@ -17,32 +17,8 @@
       "PackagePath": "staticwebassets\\admin\\.travis.yml"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\404.html",
-      "PackagePath": "staticwebassets\\admin\\404.html"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\LICENSE",
       "PackagePath": "staticwebassets\\admin"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\README.md",
-      "PackagePath": "staticwebassets\\admin\\README.md"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\blank.html",
-      "PackagePath": "staticwebassets\\admin\\blank.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\buttons.html",
-      "PackagePath": "staticwebassets\\admin\\buttons.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\cards.html",
-      "PackagePath": "staticwebassets\\admin\\cards.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\charts.html",
-      "PackagePath": "staticwebassets\\admin\\charts.html"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\css\\sb-admin-2.css",
@@ -53,20 +29,12 @@
       "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\forgot-password.html",
-      "PackagePath": "staticwebassets\\admin\\forgot-password.html"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\gulpfile.js",
       "PackagePath": "staticwebassets\\admin\\gulpfile.js"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
       "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\index.html",
-      "PackagePath": "staticwebassets\\admin\\index.html"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\js\\demo\\chart-area-demo.js",
@@ -93,20 +61,12 @@
       "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\login.html",
-      "PackagePath": "staticwebassets\\admin\\login.html"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\package-lock.json",
       "PackagePath": "staticwebassets\\admin\\package-lock.json"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\package.json",
       "PackagePath": "staticwebassets\\admin\\package.json"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\register.html",
-      "PackagePath": "staticwebassets\\admin\\register.html"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\scss\\_buttons.scss",
@@ -199,26 +159,6 @@
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\scss\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_text.scss"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\tables.html",
-      "PackagePath": "staticwebassets\\admin\\tables.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\utilities-animation.html",
-      "PackagePath": "staticwebassets\\admin\\utilities-animation.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\utilities-border.html",
-      "PackagePath": "staticwebassets\\admin\\utilities-border.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\utilities-color.html",
-      "PackagePath": "staticwebassets\\admin\\utilities-color.html"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\utilities-other.html",
-      "PackagePath": "staticwebassets\\admin\\utilities-other.html"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
@@ -7537,96 +7477,16 @@
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\banner-1.jpg",
-      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\ankara.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\ankara.jpg"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\banner-2.jpg",
-      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\antalya.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\antalya.jpg"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\banner-3.jpg",
-      "PackagePath": "staticwebassets\\img\\banner-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-4.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-5.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-6.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-detail-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-detail-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-detail-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\blog-detail.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-detail.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\next-blog.png",
-      "PackagePath": "staticwebassets\\img\\blog\\next-blog.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\post-by.png",
-      "PackagePath": "staticwebassets\\img\\blog\\post-by.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\prev-blog.png",
-      "PackagePath": "staticwebassets\\img\\blog\\prev-blog.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\recent-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\recent-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\recent-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\recent-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\recent-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\recent-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\blog\\recent-4.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\recent-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\cart-page\\product-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\cart-page\\product-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\cart-page\\product-3.jpg"
+      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\cart-page\\istanbul.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\istanbul.jpg"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\flag-1.jpg",
@@ -7653,18 +7513,6 @@
       "PackagePath": "staticwebassets\\img\\fly3.jpg"
     },
     {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\hero-1.jpg",
-      "PackagePath": "staticwebassets\\img\\hero-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\hero-2.jpg",
-      "PackagePath": "staticwebassets\\img\\hero-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\hero-3.jpg",
-      "PackagePath": "staticwebassets\\img\\hero-3.jpg"
-    },
-    {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\icon-1.png",
       "PackagePath": "staticwebassets\\img\\icon-1.png"
     },
@@ -7675,42 +7523,6 @@
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\icon-3.png",
       "PackagePath": "staticwebassets\\img\\icon-3.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-1.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-2.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-3.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-4.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-5.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\insta-6.jpg",
-      "PackagePath": "staticwebassets\\img\\insta-6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\latest-1.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\latest-2.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\latest-3.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-3.jpg"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\logo-carousel\\logo-1.png",
@@ -7739,130 +7551,6 @@
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\payment-method.png",
       "PackagePath": "staticwebassets\\img\\payment-method.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\avatar-1.png",
-      "PackagePath": "staticwebassets\\img\\product-single\\avatar-1.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\avatar-2.png",
-      "PackagePath": "staticwebassets\\img\\product-single\\avatar-2.png"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\product-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\product-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\product-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\tab-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\tab-desc.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\thumb-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\thumb-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\thumb-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\thumb-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\product-single\\thumb-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product-single\\thumb-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\man-1.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\man-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\man-2.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\man-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\man-3.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\man-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\man-4.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\man-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\man-large.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\man-large.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-4.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-5.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-6.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-7.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-8.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\product-9.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\product-9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\women-1.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\women-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\women-2.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\women-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\women-3.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\women-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\women-4.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\women-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\products\\women-large.jpg",
-      "PackagePath": "staticwebassets\\img\\products\\women-large.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\select-product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\select-product-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\select-product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\select-product-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\time-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\time-bg.jpg"
     },
     {
       "Id": "C:\\Users\\Emre\\Desktop\\Web Proje\\EmreBilet\\EmreBilet\\wwwroot\\img\\turkey.png",
